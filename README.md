@@ -17,4 +17,4 @@ To keep updated on future projects, tutorials, and updates, visit https://realsl
 http://YouTube.Com/ReTrOSlink/. Thank you all for your support.
 
 
-<img src=https://static.wixstatic.com/media/63ae1a_dd81f0ad3bcf4320ae4ba7d88bc70b55~mv2.png/v1/fill/w_370,h_543,al_c,q_85/06-05-24%20PM_6-15-2020.webp>
+<center><img src=https://static.wixstatic.com/media/63ae1a_dd81f0ad3bcf4320ae4ba7d88bc70b55~mv2.png/v1/fill/w_370,h_543,al_c,q_85/06-05-24%20PM_6-15-2020.webp></center>
