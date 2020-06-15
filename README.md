@@ -7,6 +7,8 @@ This is a simple YouTube downloader that downloads standard high definition vide
 
 This application was developed in C# under the .NET Framework 4.7.2
 
+Credits:
+
 Programmer - Slink (Dan)
 
 YoutubeExplode -  Tyrrrz (Alexey Golub) https://github.com/Tyrrrz/YoutubeExplode
